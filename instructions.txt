@@ -1,0 +1,239 @@
+
+Download and install the Timex FamilyConnect app from the Google Play Store app or Apple App Store app.
+Open the app on your phone or tablet, then tap CREATE ACCOUNT.
+Enter your name, email address, and create a password, then tap NEXT.
+Tap the + icon to add a profile picture to your account.
+Enter your phone number and tap NEXT. It does not need to be a T-Mobile number.
+Check your email and click the link to confirm and grant consent to data collection.
+Go back into the app and tap AGREE to agree to the privacy policy.
+If prompted, allow the app access to your location.
+Tap ADD WATCH to add a watch.
+
+Charge the Timex FamilyConnect watch and power it on.
+In the Timex FamilyConnect app, tap ADD WATCH. If you already have an existing watch on your account, tap the Menu icon with three lines and tap Family View.
+Tap the + icon to add a profile picture of the watch user.
+Enter the watch user's information, then tap NEXT.
+Tap the watch screen to view the notice about downloading the app, then tap Next to view the QR code.
+In the app, tap NEXT and scan the QR code on the watch.
+You can also manually type the phone number in and tap NEXT.
+Tap INFO on the watch to see information like your connected network or IMEI.
+
+
+Enter the 8 character alpha-numeric code on the watch screen into the app, then tap NEXT > CONTINUE.
+Tap ADD WATCH TO CONTACTS to add the watch phone number to your contacts. Then tap START USING.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Map View and choose the desired watch at the top of the screen.
+Tap the Settings gear, then tap Device Settings.
+Tap Remove Device from the App > OK.
+
+In the Timex FamilyConnect app, tap the Hamburger icon with three lines.
+Tap All Contacts to view the current contacts in the Virtual Secure Private Network.
+Tap on a contact to edit it, or tap the + icon to add a new contact.
+Enter the contact information, like name, phone number, and email address. It must be a US phone number, international won't work.
+Tap the + icon to take a picture or add a photo of the contact.
+Choose the account type:
+Guardian: Make & receive calls to the watch, send & receive messages, and track the watch location.
+Contact: Only allowed to make and receive calls from the watch. Can't message or track.
+
+
+If you have multiple watches, turn the switch on next to the watch you want to add the contact to.
+Tap the Check Mark at the top to save the contact.
+
+In the Timex FamilyConnect app, tap the Hamburger icon with three lines.
+Tap All Contacts to view the current contacts in the Virtual Secure Private Network.
+Tap on a contact, then tap Delete Contact.
+
+SOS Emergency Button
+Microphone
+Speaker
+Power
+Long press to turn device on or off
+Short press to turn LC on or off, or to go to the Home screen
+
+
+LCD
+Wristband
+Charging contact
+
+On the home screen, swipe right and tap Settings > Sound.
+Tap Sound Mode and choose from the following:
+Sound
+Vibrate
+Mute
+
+
+Tap Volume to adjust the following settings:
+Ringtone
+Call
+Media
+
+
+
+
+
+
+Tap the watch face to bring up your apps, then tap the Phone icon.
+Tap the Contacts icon at the top right to view the Virtual Secure Private Network of contacts.
+Tap the contact you want to call. You can only call members of the Virtual Secure Private Network.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Map View to see the watch on a map.
+Tap CALL WATCH to call the watch.
+The app will open your phone app and call the watch.
+If the phone number isn't one of the contacts, the call will be automatically forwarded to voicemail without ringing.
+You can't access voicemail from the watch and won't get notifications.
+
+
+
+Press and hold the SOS button to the left of the watch for five seconds.
+A call will go directly from the watch to the primary contact / guardian. You must be the primary contact to receive the SOS call.
+An Instant Message notification will go out to the primary contact and all other designated guardians.
+
+Tap the watch screen to bring up your apps, then tap Phone.
+Tap the Contacts icon on the top right, and scroll to the bottom.
+Tap Call 911 Emergency Only. On the confirmation screen, tap Yes.
+
+Tap the watch screen to bring up your apps, then tap Messages.
+If you already have a conversation going, tap the message thread. If not, tap Contacts on the top right, choose the contact.
+Scroll to the bottom and tap Message.
+Choose from the list preset messages, or tap the keyboard to enter your own, then tap Send.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Messages and choose the device you want to message.
+Enter your message to send, then tap the Send icon.
+
+Tap the watch screen to bring up your apps, then tap Messages.
+If you already have a conversation going, tap the message thread. If not, tap Contacts on the top right, choose the contact.
+Scroll to the bottom and tap the Microphone icon.
+Tap the Microphone to start recording, then tap it again when you're done recording. The message automatically sends.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Messages and choose the device you want to message.
+Tap and hold the Microphone icon to start recording, release when you are done. The message automatically sends.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Map View, choose the watch you want to change the list for, then tap the Settings gear..
+Tap PRESET MESSAGES to view the current list of preset messages.
+Tap + to add a new message or tap a message to edit it.
+Enter a new message, then tap the Check Mark to save. To delete, tap DELETE PRESET MESSAGE > OK.
+
+Tap the watch screen to bring up your apps, then tap Location.
+Tap Send to send your location.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Map View and choose the desired watch at the top of the screen. You'll see it's location on the map.
+Tap REFRESH LOCATION to instantly update the map with the watch's current location.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Map View and choose the desired watch at the top of the screen.
+Tap the Settings gear, then tap Device Settings.
+Tap the switch to turn Automatic Location Updates on or off.
+Choose to update the location every 15, 30, 45, or 60 minutes.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Map View and choose the desired watch at the top of the screen. You will see a map with the watch's last location.
+Tap ACTIVE TRACKING. The Watch will update it's location every 3 minutes for 15 minute. This mode reduces battery life.
+
+In the app, tap the Hamburger icon with three lines.
+Tap SafeZones.
+Tap the + icon in the middle of the screen to create a new SafeZone.
+Enter an address or select a location on the map, then give the location a name.
+Choose the desired radius between 650 and 1960 ft.
+Choose which watch to apply the SafeZone to.
+Choose if you want the SafeZone enabled or disabled.
+Tap the Check Mark at the top to save.
+
+In the app, tap the Hamburger icon with three lines.
+Tap SafeZones and choose the desire SafeZone.
+Edit the SafeZone as desired, then tap the Check Mark to save. To delete, tap DELETE SAFEZONE > OK.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Map View and choose the desired watch at the top of the screen.
+Tap the Settings gear, then tap SET ALARMS.
+Tap the + icon to create a new alarm.
+Enter the time for the alarm, the name of it, and which days of the week to repeat it on.
+Choose the watches you want to have the alarm apply to.
+Choose if you want to have the alarm enabled or disabled.
+Tap the Check Mark at the top to save the alarm.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Map View and choose the desired watch at the top of the screen.
+Tap the Settings gear, then tap SET ALARMS.
+Tap the desired alarm.
+Edit the desired information, then tap the Check Mark to save. To delete, tap DELETE ALARM > OK.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Daily Planner > Tasks & Rewards.
+Tap the + icon to create a new task.
+Choose the task icon, enter the task name, then tap NEXT.
+Set the date and time for the task, then tap NEXT.
+To add a reward, tap the switch to turn rewards on and choose the desired reward.
+Choose a completion icon and tap NEXT.
+Review the task/reward and choose which watch to apply it to, then tap SAVE.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Daily Planner > Tasks & Rewards.
+Tap the desired task to review the information.
+Tap DELETE > OK.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Daily Planner > School Mode.
+Tap the + icon to create a new School Mode event, or tap an existing School Mode event to edit. You can have multiple events.
+Set the start time, end time, days to repeat, and enter a name for the School Mode event.
+Tap the Check Mark at the top to save. To delete, tap DELETE SCHOOL MODE > OK.
+
+Tap the watch face to bring up your apps, then tap the Games icon.
+Choose the game you want to play.
+
+Tap the watch face to bring up your apps, then tap the Step Counter icon.
+At the bottom, choose from Today or History.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Activity Center. You'll see a list of watches and how many steps.
+Tap the drop-down at the top to change the view between Today, Week, and Month.
+
+Tap the watch face to bring up your apps, then tap the Step Counter icon.
+At the bottom, tap Today. Then tap the Settings gear.
+Tap the switch next to Measure to turn the step counter on or off.
+Tap the + or - icons to increase or decrease the goal.
+Swipe right to save the settings and return to the previous screen.
+
+Touch and hold the watch screen until you see the white dots at the bottom.
+Swipe left or right to view all the watch faces.
+Tap on the watch face you like the most!
+
+Tap the watch screen to bring up your apps.
+Swipe left, then tap Settings.
+Swipe down and tap Watch Update.
+Enter the last four digits of the IMEI number. It's found on the back of the watch or in the app under Map View: tap the watch > Settings gear > DEVICE SETTINGS.
+Tap Yes and wait while the device updates. Follow any additional on-screen steps.
+
+Press and hold the Power/Sleep button on the right of the watch. If the watch is off, it will turn on.
+Tap YES on the "Do you want to shutdown your watch?" screen to turn it off.
+
+Press and hold the Power/Sleep button on the right of the watch for at least 15 seconds.
+Release when the watch vibrates and you see TIMEX.
+
+In the app, tap the Hamburger icon with three lines.
+Tap Map View and choose the desired watch at the top of the screen.
+Tap the Settings gear, then tap DEVICE SETTINGS.
+Tap Turn Device Off Remotely to turn it off. You can't turn it on remotely.
+
+Tap the watch screen to bring up your apps.
+Swipe left, then tap Settings.
+Swipe down and tap and tap Factory Reset.
+Enter Code (last 4 digits of IMEI), then tap YES.
+
+Tap the watch screen to bring up your apps.
+Swipe left, then tap Settings.
+Swipe down and tap Bluetooth.
+Tap the switch to turn Bluetooth on.
+Tap Add Device or No Paired Devices, then tap SCAN.
+Tap the desired device. If prompted, enter in the passcode.
+
+Tap the watch screen to bring up your apps.
+Swipe left, then tap Settings.
+Swipe down and tap Bluetooth.
+Tap the switch to turn Bluetooth on. A list of paired devices shows.
+Tap the small white Bluetooth icon next to the device you want to unpair.

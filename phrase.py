@@ -14,7 +14,6 @@ reqs = requests.get(url)
 soup = BeautifulSoup(reqs.text,'html.parser')
 
 for tag in soup.find_all("ol"): 
-    #print("{0}: {1}".format(tag.name, tag.text))
     t=tag.text
     print(t)
 
