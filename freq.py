@@ -1,4 +1,4 @@
-import nltk
+
 text = open("D:\out.txt", "r") 
 d = dict() 
 for line in text: 
