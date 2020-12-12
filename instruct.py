@@ -44,13 +44,6 @@ for i in range(len(o)):
     #print(first)
     n=nltk.pos_tag(first)
     #print(n)
-
-'''
-op = list(filter(lambda x:x[1]=='VB',p))
-print("Operations:",op,"\n")
-obj = list(filter(lambda x:x[1]=='NN',p))
-print("Objects:",obj,"\n")
-'''
     
     for word, tag in n:
         if tag in ('VB'):
@@ -62,3 +55,9 @@ print("Objects:",obj,"\n")
             print (o[i])
             print("Line No-",i," => Not an Instruction")
 
+'''
+op = list(filter(lambda x:x[1]=='VB',p))
+print("Operations:",op,"\n")
+obj = list(filter(lambda x:x[1]=='NN',p))
+print("Objects:",obj,"\n")
+'''
